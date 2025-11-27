@@ -1,0 +1,54 @@
+[
+    {
+        "path": "ambience_busy_office_call_center.wav",
+        "description": "Title: Busy Office Call Center; Description: This is a moderately loud, bustling soundscape typical of a busy office or call center environment, with overlapping conversations, keyboard clicks, and general office ambiance creating a slightly chaotic yet professional feel."
+    },
+    {
+        "path": "birdsong_and_wind_through_trees_in_stockwood_park.wav",
+        "description": "Title: Gentle Park Ambiance; Description: This is a calming mix of birdsong and the soft rustling of wind through trees, creating a peaceful and pleasant, though not particularly loud, outdoor soundscape."
+    },
+    {
+        "path": "busy_office_no_people_loop.wav",
+        "description": "Title: Busy Office; Description: This is a loop of a busy office environment with indistinct chatter, keyboard clicks, and the occasional muffled phone ringing, creating a generally noisy and somewhat distracting atmosphere. It sounds quite busy and moderately loud."
+    },
+    {
+        "path": "exterior_ambiance_parking_lot_with_birds.wav",
+        "description": "Title: Gentle Exterior Ambiance; Description: This audio features a calm and relatively quiet soundscape of a parking lot, with the subtle sounds of birds chirping providing a natural and pleasant backdrop. The noise is generally low in volume and doesn't contain any harsh or unpleasant sounds."
+    },
+    {
+        "path": "airport_boarding_gate.wav",
+        "description": "Title: Airport Boarding Gate Noise; Description: This is a busy airport scene with a mix of announcements, general chatter, and the sound of rolling luggage \u2013 it's a moderate level of noise, somewhat indistinct but definitely creating a bustling atmosphere."
+    },
+    {
+        "path": "busy_train_station_ambience.wav",
+        "description": "Title: Busy Train Station; Description: The audio features a consistent, moderate level of train noise, including rumbling and distant announcements, creating a somewhat chaotic and busy atmosphere. It's not particularly loud or unpleasant, but definitely contributes to a sense of activity and transit."
+    },
+    {
+        "path": "car_driving_ambience.wav",
+        "description": "Title: Gentle Car Ride; Description: The audio features a consistent, low hum of a car engine and faint road noise, creating a calm and unobtrusive background sound. It's a relatively quiet and pleasant sound, suitable for a professional environment."
+    },
+    {
+        "path": "fan_hum.wav",
+        "description": "Title: Quiet Fan Hum; Description: The audio features a consistent, low-level hum from a fan, creating a subtle and somewhat monotonous background sound. It's not particularly loud or unpleasant, just a continuous mechanical whir."
+    },
+    {
+        "path": "grocery_shopping.mp3",
+        "description": "Title: Grocery Shopping Sounds; Description: The audio features a mix of indistinct chatter, the sound of shopping carts rolling, and occasional muffled voices, creating a somewhat busy and ambient soundscape. It's moderately loud and generally not unpleasant, but the overlapping sounds contribute to a feeling of a bustling environment."
+    },
+    {
+        "path": "grocey_store_ambience.wav",
+        "description": "Title: Grocery Store Ambience; Description: This noise is a continuous, low-level hum of background sounds commonly found in a grocery store \u2013 a mix of indistinct chatter, distant announcements, and the gentle whirring of refrigeration units, creating a slightly busy and somewhat indistinct atmosphere. It's generally not loud or"
+    },
+    {
+        "path": "shopping_mall.wav",
+        "description": "Title: Busy Mall Ambience; Description: This is a fairly loud and busy soundscape of a shopping mall, featuring overlapping conversations, general foot traffic, and distant announcements, creating a somewhat indistinct and bustling atmosphere."
+    },
+    {
+        "path": "traffic_jam.wav",
+        "description": "Title: Heavy Traffic Noise; Description: The audio clip features a consistent and quite loud sound of a traffic jam with multiple cars passing slowly and the general whooshing of vehicles. It's a noticeable and somewhat unpleasant background noise."
+    },
+    {
+        "path": "train_station.wav",
+        "description": "Title: Train Station Ambience; Description: The audio features a busy train station with a mix of distant train sounds, muffled announcements, and general ambient noise creating a somewhat loud and bustling atmosphere."
+    }
+]
